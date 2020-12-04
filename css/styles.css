@@ -46,7 +46,8 @@
   #home h1{
       text-align: center;
       font-size: 9.5rem;
-      font-family: 'Permanent Marker', cursive;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-weight: 900;
       letter-spacing: 2.5px;
       padding-bottom: 8%;
       padding-top: -2%;
